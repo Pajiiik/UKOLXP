@@ -1,0 +1,15 @@
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.exe
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.deps.json
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.runtimeconfig.json
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.runtimeconfig.dev.json
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.dll
+G:\PRG\27.03.2023\27.03.2023\bin\Debug\netcoreapp3.1\27.03.2023.pdb
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.csprojAssemblyReference.cache
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\_27._03._2023.Form1.resources
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.csproj.GenerateResource.cache
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.AssemblyInfoInputs.cache
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.AssemblyInfo.cs
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.csproj.CoreCompileInputs.cache
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.dll
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.pdb
+G:\PRG\27.03.2023\27.03.2023\obj\Debug\netcoreapp3.1\27.03.2023.genruntimeconfig.cache
